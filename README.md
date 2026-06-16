@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naphatsorn</h1>
-<h3 align="center">Computer Science Student | Future Software Developer</h3>
+<h3 align="center">Computer Science Student</h3>
 
 🎓 Bachelor of Science in Computer Science  
 🏫 Department of Computational Science and Digital Technology
