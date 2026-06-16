@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naphatsorn</h1>
 <h3 align="center">CS Student @ Kasetsart University · Software Developer</h3>
-<p align="center">GPAX 3.69/4.00 &nbsp;|&nbsp; Building apps with Python, Java, Go & Next.js</p>
+<p align="center">GPAX 3.68/4.00 &nbsp;|&nbsp; Building apps with Python, Java, Go & Next.js</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/Naphatsorn Wattanon">
