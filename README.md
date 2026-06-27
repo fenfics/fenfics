@@ -5,8 +5,8 @@
 <p align="center">GPAX 3.68/4.00 • Building Data & Software Projects with Python, Java, Go and Next.js</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Naphatsorn Wattanon">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/naphatsorn-wattanon-72a544407/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:naphatsorn.watt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
