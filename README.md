@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naphatsorn</h1>
 <h3 align="center">Computer Science Student @ Kasetsart University</h3>
-<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast</h3>
-<h3 align="center">Python • SQL • Machine Learning • Data Visualization</h3>
-<p align="center">GPAX 3.68/4.00 &nbsp;|&nbsp; Building apps with Python, Java, Go & Next.js</p>
+<p align="center">Aspiring Data Analyst | Data Science Enthusiast</p>
+<p align="center">Python • SQL • Machine Learning • Data Visualization</p>
+<p align="center">GPAX 3.68/4.00 • Building Data & Software Projects with Python, Java, Go and Next.js</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/Naphatsorn Wattanon">
