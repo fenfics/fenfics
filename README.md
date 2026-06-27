@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naphatsorn</h1>
-<h3 align="center">CS Student @ Kasetsart University · Software Developer</h3>
+<h3 align="center">Computer Science Student @ Kasetsart University</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast</h3>
+<h3 align="center">Python • SQL • Machine Learning • Data Visualization</h3>
 <p align="center">GPAX 3.68/4.00 &nbsp;|&nbsp; Building apps with Python, Java, Go & Next.js</p>
 
 <p align="center">
